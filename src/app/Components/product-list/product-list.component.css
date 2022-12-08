@@ -1,0 +1,32 @@
+.vertical-menu {
+    width: 200px;
+  }
+  
+  .vertical-menu a {
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 12px;
+    padding-left: 50px;
+    font-weight: bold;
+    font-size: large;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+  }
+  
+
+  #div1{
+    width: 20%;
+    float: left;
+  }
+
+  #div2{
+    width: 80%;
+    float: right;
+  }
+
+  .padding{
+    padding-top: 100px;
+  }

@@ -1,0 +1,24 @@
+.btn{
+    background-color: transparent;
+}
+
+.cat{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: large;
+}
+
+.precio{
+    color: rgb(255, 255, 255);
+    font-size: large;
+}
+
+.tarjeta{
+    background-color: transparent;
+}
+
+.padd{
+    padding-top: 100px;
+}
+
+

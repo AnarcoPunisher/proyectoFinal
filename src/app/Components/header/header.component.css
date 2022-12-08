@@ -1,0 +1,44 @@
+.icons{
+    height: 25px;
+    width: 25px;
+    margin: 8px 15px;
+}
+
+.logIcon{
+    height: 25px;
+    width: 25px;
+    margin: 15px 15px;
+}
+
+.test{
+    border-width: 1px;
+    border-style: solid;
+    border-color: none;
+}
+
+.row{
+    margin: 0;
+}
+
+#logo{
+    height: 60px;
+    width: auto;
+    margin: 8px;
+}
+nav{
+ background-color: transparent;
+
+}
+
+
+#search{
+    background-color: none;
+    height: 40px;
+    margin: 12px;
+    border-radius: 25px;
+}
+
+.textStyle{
+    font-family: helvetica;
+    font-weight: bold;
+}
